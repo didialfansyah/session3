@@ -7,5 +7,3 @@ Ahmad Irfansyah - INALUM
 Pascal Felim - INALUM
 
 Ariel Busy Andlas - INALUM
-
-test bg
